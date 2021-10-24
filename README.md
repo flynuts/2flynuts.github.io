@@ -54,7 +54,7 @@
   https://youtu.be/kGx_ykETxuE
 <br><br>
 
-# [대표 이미지]
+# [대표이미지]
 
 ![123456](https://user-images.githubusercontent.com/92343121/137506082-8fb348c4-98a5-4fae-a2a4-0f65dac438b9.png)
 
