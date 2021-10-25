@@ -40,7 +40,7 @@
 
 
 - 동영상
-  https://youtu.be/kGx_ykETxuE
+ [https://youtu.be/kGx_ykETxuE](url)
 <br><br>
 
 # [대표 이미지]
