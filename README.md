@@ -45,7 +45,7 @@
 
 # [대표 이미지]
 
-![123456](https://user-images.githubusercontent.com/92343121/137506082-8fb348c4-98a5-4fae-a2a4-0f65dac438b9.png)
+![123455](https://user-images.githubusercontent.com/92343121/138663146-c109c2c6-5a1b-45a8-b38c-45d2a9e9af20.png)
 
 
 
