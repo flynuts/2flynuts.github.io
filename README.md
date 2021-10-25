@@ -99,7 +99,7 @@
 연번 | 오브젝트 이름 | 오브젝트 이미지
 -- | -- | --
 1 | 플레이어 |  ![12311](https://user-images.githubusercontent.com/92343121/138666046-d4c5b763-185b-408e-9596-1fdd44cd82d0.png)|
-2 | 무기들 |  ![download](https://user-images.githubusercontent.com/92343121/138666126-9c228e4e-8760-47c6-8764-369749f9b2cb.png)|
+2 | 무기들 |  <img src = "https://user-images.githubusercontent.com/92343121/138687241-1e42e871-aa60-4a11-bfe3-08a5b2e736b7.png" width="200" height="200"/>
 3 | 적 |  ![preview](https://user-images.githubusercontent.com/92343121/138666281-bc5cf401-5101-4471-82bc-4c91cae70688.png)|
 4 | 배경 |  <img src = "https://user-images.githubusercontent.com/92343121/138686708-b545ed21-b903-4258-98cc-c30a11c94082.png" width="300" height="200"/>
 
