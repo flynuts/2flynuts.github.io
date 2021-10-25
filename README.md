@@ -101,9 +101,8 @@
 1 | 플레이어 |  ![12311](https://user-images.githubusercontent.com/92343121/138666046-d4c5b763-185b-408e-9596-1fdd44cd82d0.png)|
 2 | 무기들 |  ![download](https://user-images.githubusercontent.com/92343121/138666126-9c228e4e-8760-47c6-8764-369749f9b2cb.png)|
 3 | 적 |  ![preview](https://user-images.githubusercontent.com/92343121/138666281-bc5cf401-5101-4471-82bc-4c91cae70688.png)|
-4 | 배경 |  <![dee3fda24ca14ee7da85902784dc2cc6](https://user-images.githubusercontent.com/92343121/138666313-7235c603-3aef-4766-9208-08f9378161f3.png) height="300">|
+4 | 배경 |  ![dee3fda24ca14ee7da85902784dc2cc6](https://user-images.githubusercontent.com/92343121/138666313-7235c603-3aef-4766-9208-08f9378161f3.png){: width="300" height="300"}
 
-|4|골킵|<img src="./img/골킵.png" height="300">|
 
 # 2. 파라미터(속성) 뽑아 보기
 
