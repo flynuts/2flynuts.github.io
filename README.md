@@ -44,6 +44,8 @@
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
  
+ <iframe width="1280" height="720" src="https://www.youtube.com/embed/VuL66Np7QcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 <br><br>
 
 # [대표 이미지]
